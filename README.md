@@ -21,6 +21,6 @@ List your agency below and the community can promise you a speedy response.
 * Is there a limit on the number of labels one can have in GitHub?  
 * Is there a way to create a widget for the issues that have a certain label?  E.g., so an agency could apply
 * Start a running best practices list that builds from this feedback, like [this](https://github.com/GSA/slash-developer-pages/blob/master/API_Checklist.md) but better?
-* 
+* Create some sort of chart that can serve as scoreboard for agencies (by label, number of issues/open/closed)
 
 
