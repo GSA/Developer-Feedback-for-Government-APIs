@@ -15,6 +15,7 @@ A pilot project for accepting public feedback on US Government APIs.
 List your agency below and the community can promise you a speedy response. 
 
 * General Services Administration
+* U.S. Department of State, Office of the Historian
 
 
 ### Project To Do
