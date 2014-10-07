@@ -1,7 +1,14 @@
-Developer-Feedback-for-Government-APIs
-======================================
+## Previous Sessions
 
-A pilot project for accepting public feedback on US Government APIs.  
+**September**
+* [International Trade Administration](https://github.com/InternationalTradeAdministration/developerportal/issues/34)
+
+**June**
+* [Consumer Financial Protection Bureau](https://github.com/cfpb/api/milestones/Usability%20feedback%20improvements%20Round%201)
+
+
+
+
 
 
 ### Have ideas or feedback for a government API?  
