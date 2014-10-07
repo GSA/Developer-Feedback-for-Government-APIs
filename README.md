@@ -3,9 +3,9 @@
 **September**
 * [International Trade Administration](https://github.com/InternationalTradeAdministration/developerportal/issues/34)
 
-**June**
+**April**
 * [Consumer Financial Protection Bureau](https://github.com/cfpb/api/milestones/Usability%20feedback%20improvements%20Round%201)
-
+* [SAM.gov](https://github.com/GSA/sam_api/issues)
 
 
 
