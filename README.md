@@ -1,6 +1,6 @@
 ## Upcoming Sessions 
 
-* [For USDA](https://github.com/usda/USDA-APIs/issues?q=is%3Aopen+is%3Aissue+label%3AARS) (Please use the _ARS_ label) 
+* [For USDA](https://github.com/USDA/USDA-APIs/labels/ARS) (Please use the _ARS_ label) 
 * [For BusinessUSA](https://github.com/GSA/Developer-Feedback-for-Government-APIs/labels/BusinessUSA) (Please use the _BusinessUSA_ label)
 * [For Social Media Registry API](https://github.com/GSA/social-media-registry/labels/API%20Usability%20Session) (Please use the _API Usability Session_ label)
 
