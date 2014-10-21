@@ -1,7 +1,7 @@
 
 * [For USDA](https://github.com/USDA/USDA-APIs)
 * [For BusinessUSA](https://github.com/GSA/Developer-Feedback-for-Government-APIs/labels/BusinessUSA)
-* [For Social Media Registry API](https://github.com/GSA/GSA-APIs/issues)  (note - link will change)
+* [For Social Media Registry API](https://github.com/GSA/social-media-registry/labels/API%20Usability%20Session)  (note - link will change)
 
 ## Previous Sessions
 
