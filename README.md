@@ -1,5 +1,9 @@
 ## Upcoming Sessions 
-* TBA...
+
+### December
+* [Dept. of Justice](https://github.com/GSA/Developer-Feedback-for-Government-APIs/labels/DOJ)
+* [DigitalGov Search](https://github.com/GSA/search.digitalgov.gov/issues)
+* [Mirage](https://github.com/18F/mirage/issues) (Please use the _API Usability Session_ label)
 
 ## Previous Sessions
 
