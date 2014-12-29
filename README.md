@@ -20,7 +20,7 @@
 * [National Renewable Energy Laboratory](https://github.com/NREL/developer.nrel.gov/labels/ux-feedback)
 
 ### May
-* [Deparment of Labor](https://github.com/USDepartmentofLabor/Developer/issues)
+* [Department of Labor](https://github.com/USDepartmentofLabor/Developer/issues)
 
 ### April
 * [Consumer Financial Protection Bureau](https://github.com/cfpb/api/milestones/Usability%20feedback%20improvements%20Round%201)
