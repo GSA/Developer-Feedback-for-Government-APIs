@@ -1,7 +1,7 @@
 ## Upcoming Sessions 
 * [Federal Elections Commission](https://github.com/18F/openFEC/issues)
 * [FCC](https://github.com/FCC/FCC-APIs)
-* USPTO (link coming)
+* [USPTO](https://github.com/GSA/Developer-Feedback-for-Government-APIs/issues?q=is%3Aopen+is%3Aissue) (Please use the _USPTRO_ label)
 
 
 ## Previous Sessions
