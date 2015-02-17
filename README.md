@@ -1,10 +1,13 @@
 ## Upcoming Sessions 
-* [Federal Elections Commission](https://github.com/18F/openFEC/milestones/API%20Usability%20Testing)
-* [FCC](https://github.com/FCC/FCC-APIs)
-* [USPTO](https://github.com/GSA/Developer-Feedback-for-Government-APIs/issues?q=is%3Aopen+is%3Aissue) (Please use the _USPTO_ label)
 
+TBA
 
 ## Previous Sessions
+
+### February 
+* [Federal Elections Commission](https://github.com/18F/openFEC/milestones/API%20Usability%20Testing)
+* [Federal Communications Commission](https://github.com/FCC/FCC-APIs)
+* [USPTO](https://github.com/GSA/Developer-Feedback-for-Government-APIs/issues?q=is%3Aopen+is%3Aissue) (Please use the _USPTO_ label)
 
 ### December
 * [Dept. of Justice](https://github.com/GSA/Developer-Feedback-for-Government-APIs/labels/DOJ) (Please use the _DOJ_ label)
