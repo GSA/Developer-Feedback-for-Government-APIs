@@ -1,6 +1,8 @@
 ## Upcoming Sessions 
 
-TBA
+* [NIH 3D Print Exchange](https://github.com/niaid/3dpx_api/issues)
+* [NASA](https://github.com/nasa/api-docs/issues)
+* [USPTO](https://github.com/GSA/Developer-Feedback-for-Government-APIs/issues?q=is%3Aopen+is%3Aissue) (Please use the _USPTO_ label)
 
 ## Previous Sessions
 
