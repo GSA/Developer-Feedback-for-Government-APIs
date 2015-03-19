@@ -1,7 +1,7 @@
 ## Upcoming Sessions 
 
 * [NIH 3D Print Exchange](https://github.com/niaid/3dpx_api/issues)
-* [NASA](https://github.com/nasa/api-docs/issues)
+* [NASA](https://github.com/nasa/api-docs/milestones/API%20Usability%20Testing)
 * [USPTO](https://github.com/CSSIP-AIR/PatentsView-API/issues)
 
 ## Previous Sessions
