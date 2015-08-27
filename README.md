@@ -1,15 +1,27 @@
+
+
 ## Upcoming Sessions 
+
+* [International Trade Administration](https://github.com/InternationalTradeAdministration/developerportal/issues)
+* [Centers for Medicare and Medicaid Services](https://github.com/18F/CMS-APIs/milestones/API%20Usability%20Testing%20Session%20-%20August%202015)
+* [18F](https://github.com/18F/open-data-maker/issues)
+
+## Previous Sessions
+
+### 2015
+
+### March 
 
 * [NIH 3D Print Exchange](https://github.com/niaid/3dpx_api/issues)
 * [NASA](https://github.com/nasa/api-docs/milestones/API%20Usability%20Testing)
 * [USPTO](https://github.com/CSSIP-AIR/PatentsView-API/milestones/API%20Usability%20Session)
 
-## Previous Sessions
-
 ### February 
 * [Federal Elections Commission](https://github.com/18F/openFEC/milestones/API%20Usability%20Testing)
 * [Federal Communications Commission](https://github.com/FCC/FCC-APIs)
 * [USPTO](https://github.com/GSA/Developer-Feedback-for-Government-APIs/issues?q=is%3Aopen+is%3Aissue) (Please use the _USPTO_ label)
+
+### 2014
 
 ### December
 * [Dept. of Justice](https://github.com/GSA/Developer-Feedback-for-Government-APIs/labels/DOJ) (Please use the _DOJ_ label)
