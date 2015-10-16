@@ -2,7 +2,7 @@
 
 ## Upcoming Sessions 
 
-* [International Trade Administration](https://github.com/InternationalTradeAdministration/developerportal/issues)
+* [International Trade Administration](https://github.com/InternationalTradeAdministration/developerportal/issues/47)
 * [Centers for Medicare and Medicaid Services](https://github.com/18F/CMS-APIs/milestones/API%20Usability%20Testing%20Session%20-%20August%202015)
 * [18F](https://github.com/18F/open-data-maker/issues)
 
