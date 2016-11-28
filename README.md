@@ -1,12 +1,18 @@
+This repository serves as a feedback forum for US Government APIs.  Ideally, each agency operates its own public issue tracker or front facing feedback mechanism, but if they don't, this repo can serve that purpose.  
 
+API programs need a public forum for organic feedback, but we also will sometimes hold [API Usability Sessions](https://pages.18f.gov/API-Usability-Testing/).  You can see where the feedback from those are documented in the links below.  
 
-## Upcoming Session
+===================
+
+## Feedback Links from Previous Sessions
+
+### 2016 
+
+### September
 
 * [Dept. of Education](https://pages.18f.gov/ED-Developer-Hub/)
 * [GSA Digital Registry](https://github.com/ctacdev/social-media-registry/issues?q=is%3Aissue+is%3Aclosed)
 * Foreignassistance.gov (link coming)
-
-## Previous Sessions
 
 ### 2015
 
